@@ -1,0 +1,15 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\bin\Debug\net6.0\HumanExtension.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\bin\Debug\net6.0\HumanExtension.deps.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\bin\Debug\net6.0\HumanExtension.runtimeconfig.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\bin\Debug\net6.0\HumanExtension.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\bin\Debug\net6.0\HumanExtension.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\HumanExtension.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\HumanExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\HumanExtension.AssemblyInfoInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\HumanExtension.AssemblyInfo.cs
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\HumanExtension.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\HumanExtension.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\refint\HumanExtension.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\HumanExtension.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\HumanExtension.genruntimeconfig.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\HumanExtension\obj\Debug\net6.0\ref\HumanExtension.dll
